@@ -36,6 +36,7 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [nima-m-git's solution](https://github.com/nima-m-git/wheres_waldo) - [View in browser](https://wheres-waldo-2340a.web.app/)
 - [Jdonahue135's solution](https://github.com/jdonahue135/wheres-waldo) - [View in browser](https://infinite-headland-08203.herokuapp.com/)
 - [Braxton Lemmon's solution](https://github.com/braxtonlemmon/waldo-react-rails) - [View in browser](https://pumpkin-surprise-94026.herokuapp.com/)
 - [Max Garber's solution](https://github.com/bubblebooy/waldo) - [View in browser](https://guarded-citadel-26034.herokuapp.com/)
