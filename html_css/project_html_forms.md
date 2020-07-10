@@ -22,6 +22,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [nima-m-git's Solution](https://github.com/nima-m-git/mint-clone) - [View in Browser](https://nima-m-git.github.io/mint-clone/)
 * [descholar's Solution](https://github.com/descholar-ceo/signup-page) - [View in Browser](https://peaceful-mcnulty-9e3703.netlify.app/)
 * [Alex Zambrano's Solution](https://github.com/Alexoid1/Html-forms) - [View in Browser](https://alexoid1.github.io/Html-forms/)
 * [Lucas Bide's Solution](https://github.com/Lucas-Bide/odin-mint) - [View in Browser](https://lucas-bide.github.io/odin-mint/)
