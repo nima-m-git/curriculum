@@ -21,6 +21,7 @@ Send us a link to your portfolio site so we can show others! Submit a link to yo
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [nima-m-git's Solution](https://github.com/nima-m-git/portfolio) - [Live website](nima-m.me)
 * [Sher's Portfolio Solution](https://github.com/sher-s7/portfolio) - [View in Browser](https://shers.dev/)
 * [Andres Ruiz's Solution](https://github.com/Andrsrz/andrsrz.github.io) - [View in Browser](https://andrsrz.github.io/)
 * [Zakariye Yusuf's Solution - Live website](https://zakariyeyusuf.com)
